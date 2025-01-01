@@ -35,7 +35,8 @@ h2 {
   font-family: "Young Serif", sans-serif;
   font-size: 2rem;
   font-weight: 400;
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 h3 {
@@ -67,16 +68,18 @@ h3 {
   background-color: hsl(330, 100%, 98%);
   border-radius: 20px;
   padding: 20px;
-  margin: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 ol {
   line-height: 25px;
+  padding-left: 20px;
 }
 
 ul {
   line-height: 30px;
-  
+  padding-left: 30px;
 }
 
 hr {
