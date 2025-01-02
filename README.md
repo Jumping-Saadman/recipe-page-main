@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot of the webpage](./Screenshot.jpeg)
+![Screenshot of the webpage](Screenshot.jpeg)
 
 ### Links
 
